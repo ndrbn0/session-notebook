@@ -1,1 +1,1 @@
-create an index.html, styles.css, coding.py and a README.md file to document all your steps
+remove index.html, styles.css, coding.py and create a README.md file to document all your steps

@@ -1,1 +1,1 @@
-create an index.html, stlyes.css and a coding.py into the notes/github-and-markdown
+create an index.html, styles.css, coding.py and a README.md file to document all your steps

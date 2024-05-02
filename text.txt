@@ -1,0 +1,1 @@
+remove index.html, styles.css, coding.py and create a README.md file to document all your steps
